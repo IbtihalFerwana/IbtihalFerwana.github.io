@@ -21,7 +21,7 @@ redirect_from:
 
 * <b>Data Scientist, Coop</b> [Jan - Sep 2019]
   * <I>[Mozn Systems](https://mozn.sa/), Riyahd Saudi Arabia </I>
-  * Worked on wide-scale problems that incoporate nationwide data utilizing techniques including NLP modelling, data assessment, wrangling and wrangling, geospatial analytics
+  * Worked on wide-scale problems that incoporate nationwide data utilizing techniques including NLP modelling, data assessment, wrangling and preprocessing, geospatial analytics
   * Web services and backend development for interactive data dashboards 
 
 * <b> Research Intern </b> [Summer 2017]
