@@ -40,7 +40,7 @@ redirect_from:
   {% endfor %}</ul>  
 
 ## Awards & Honors
-* Student Google Travel Grant to attend Grace Hopper Celebration 2019, Orlando
+* Student Google Travel Grant to attend Grace Hopper Conference 2019, Orlando
 * Google Women Techmakers Scholar, 2018
   * Considered as the first undergraduate female to be awarded from a Saudi university
 * Top 90th-percentile in ACM Programming 14-hour Jam Contest, 2019
