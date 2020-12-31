@@ -15,26 +15,22 @@ redirect_from:
 
 ## Work experience
 * <b> Research Intern</b> [Summer 2020]
-  
-  <I> Washington University in St. Louis, USA </I>
+  *Washington University in St. Louis, USA
   * Worked on named-entity recognition model on top of BERT language model for multi-task learning 
   * Supervisor: Dr. [Po-Yin Yen](https://informatics.wustl.edu/research-lab-po-yin-yen/)
 
 * <b>Data Scientist, Coop</b> [Jan - Sep 2019]
-  
-  <I>[Mozn Systems](https://mozn.sa/), Saudi Arabia</I>
+  *[Mozn Systems](https://mozn.sa/), Saudi Arabia
   * Worked on wide-scale problems that incoporate nationwide data utilizing techniques including NLP modelling, data assessment, wrangling and wrangling, geospatial analytics
   * Web services and backend development for interactive data dashboards 
 
 * <b> Research Intern </b> [Summer 2017]
-
-  <I> University of Arkansas at Little Rock</I>
+  *University of Arkansas at Little Rock
   * Created a model to predict sentimental values based on a product reviews and images
   * Supervisor: Prof. [Milanova Mariofanna](https://ualr.edu/computerscience/faculty-and-staff/mariofanna-milanova/)
  
 * <b> Undergraduate Research Assistant </b> [2016-2017]
-
-  <I> Prince Sutlan University, CCIS Department </I>
+  *Prince Sutlan University, CCIS Department 
   * Assessed, wrangled, preprocessed large health records datasets for predictive analysis
   * Supervisor: Prof. [Sarab Almuhaideb](https://www.researchgate.net/profile/Sarab_Almuhaideb)
 
