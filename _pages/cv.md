@@ -49,7 +49,7 @@ redirect_from:
  
   
 ## Teaching
-* [Intedesciplinary Methods in Research Computing](https://illinois-cse.github.io/eng498/) Course development
+* [Intedesciplinary Methods in Research Computing](https://illinois-cse.github.io/eng498/), Teaching assistance and Course development
   
   <I> University of Illinois Urbana-Champaign</I>
 * Java Programming, Tutor
