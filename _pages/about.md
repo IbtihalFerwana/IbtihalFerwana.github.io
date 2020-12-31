@@ -16,6 +16,6 @@ Before joining Illinois, I received my bachelors degree from [Prince Sultan Univ
 * Social interactions in health and policies 
 
 
-### Non CS Interests:
+### Some Non CS Interests:
 * Children education, specifically in underserved areas, or refugee camps
-* Children learning development, from cognitive and language perspective
+* Children learning development, from cognitive and language perspectives
