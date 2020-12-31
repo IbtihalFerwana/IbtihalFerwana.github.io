@@ -9,13 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+##Education
 * M.S. in Computer Science, University of Illinois at Urbana-Champaign, 2022 (expected)
 * B.S. in Computer Science, Prince Sultan University, 2019
 
-Work experience
-======
+###Work experience
 * <b> Research Intern</b>, [Summer 2020]
   
   <I> Washington University in St. Louis, USA </I>
