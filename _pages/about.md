@@ -18,4 +18,4 @@ Before joining Illinois, I received my bachelors degree from [Prince Sultan Univ
 
 ### Non CS Interests:
 * Children education, specifically in underserved areas, or refugee camps
-* Children learning development, cognitive and language developments
+* Children learning development, from cognitive and language perspective
