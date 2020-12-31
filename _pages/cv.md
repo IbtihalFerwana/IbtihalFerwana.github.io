@@ -41,7 +41,7 @@ redirect_from:
 
 ## Awards & Honors
 * Student Google Travel Grant to attend Grace Hopper Conference 2019, Orlando
-* Google Women Techmakers Scholar, 2018
+* [Google Women Techmakers](https://buildyourfuture.withgoogle.com/scholarships/generation-google-scholarship-emea/) EMEA Scholar, 2018
   * Considered as the first undergraduate female to be awarded from a Saudi university
 * Top 90th-percentile in ACM Programming 14-hour Jam Contest, 2019
 * Dean's Honor List, 2016-2019
@@ -49,11 +49,8 @@ redirect_from:
  
   
 ## Teaching
-* [Intedesciplinary Methods in Research Computing](https://illinois-cse.github.io/eng498/), Teaching assistance and Course development
-  
-  <I> University of Illinois Urbana-Champaign</I>
-* Java Programming, Tutor
-  <I> Prince Sultan University</I>
+* [Intedesciplinary Methods in Research Computing](https://illinois-cse.github.io/eng498/), Teaching assistance and Course development, <I> University of Illinois Urbana-Champaign</I>
+* Java Programming, Tutor, <I> Prince Sultan University</I>
   
 ## Extracurricular Activities
 * Technical Mentor, Saudi Data Community [July 2019]
