@@ -7,9 +7,15 @@ redirect_from:
   - /about/
   - /about.html
 ---
-## Salam! 
-I'm a first year Masters student in [Computer Science](https://cs.illinois.edu/) at the University of Illinios at Urbana Champaign. 
+<b>Salam!</b> I'm a first year Masters student in [Computer Science](https://cs.illinois.edu/) at the University of Illinios at Urbana Champaign. Currenlty I'm supervised by [Prof. Lav Varsheny] (http://www.varshney.csl.illinois.edu/) to work on interesting problems in science of science, network analysis and much more as part of the Information and Intelligence Group.
+Before joining Illinois, I received my bachelors degree from Prince Sultan University, Saudi Arabia in 2019. 
 
-## At the momenet, I'm interested in:
+### At the momenet, I'm interested in:
+* Applying network analysis techniques to observe and extract phenomena in data
+* NLP interpretability, methods and applications
+* Social interactions in health and policies 
 
-## Non CS Interests:
+
+### Non CS Interests:
+* Children education, specifically in underserved areas, or refugee camps
+* Children learning development, cognitive and language developments
