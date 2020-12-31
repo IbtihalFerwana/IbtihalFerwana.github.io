@@ -16,12 +16,13 @@ Education
 
 Work experience
 ======
-* <b>Research Intern</b>, Summer 2020
+* <b>Research Intern</b>, [Summer 2020]
+  
   <I> Washington University in St. Louis, USA </I>
   * Worked on named-entity recognition project utililizing BERT language model for multi-task learning 
   * Supervisor: Dr. [Po-Yin Yen](https://informatics.wustl.edu/research-lab-po-yin-yen/)
 
-* <b>Data Scientist, Coop</b> <span color=success-color>Jan - Sep 2019</span>  
+* <b>Data Scientist, Coop</b> [Jan - Sep 2019]
   <I>[Mozn Systems](https://mozn.sa/), Saudi Arabia</I>
   * NLP modelling, data analysis and wrangling, geospatial analytics
   * Backend development 
