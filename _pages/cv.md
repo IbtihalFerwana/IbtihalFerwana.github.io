@@ -13,8 +13,8 @@ redirect_from:
 * M.S. in Computer Science, University of Illinois at Urbana-Champaign, 2022 (expected)
 * B.S. in Computer Science, Prince Sultan University, 2019
 
-### Work experience
-* <b> Research Intern</b>, [Summer 2020]
+## Work experience
+* <b> Research Intern</b> [Summer 2020]
   
   <I> Washington University in St. Louis, USA </I>
   * Worked on named-entity recognition model on top of BERT language model for multi-task learning 
@@ -23,10 +23,10 @@ redirect_from:
 * <b>Data Scientist, Coop</b> [Jan - Sep 2019]
   
   <I>[Mozn Systems](https://mozn.sa/), Saudi Arabia</I>
-  * Worked on wide-scale problems that incoporate nationwide data utilizing techniques including NLP modelling, data analysis and wrangling, geospatial analytics
+  * Worked on wide-scale problems that incoporate nationwide data utilizing techniques including NLP modelling, data assessment, wrangling and wrangling, geospatial analytics
   * Web services and backend development for interactive data dashboards 
 
-* <b> Research Intern </b>, [Summer 2017]
+* <b> Research Intern </b> [Summer 2017]
 
   <I> University of Arkansas at Little Rock</I>
   * Created a model to predict sentimental values based on a product reviews and images
@@ -37,28 +37,33 @@ redirect_from:
   <I> Prince Sutlan University, CCIS Department </I>
   * Assessed, wrangled, preprocessed large health records datasets for predictive analysis
   * Supervisor: Prof. [Sarab Almuhaideb](https://www.researchgate.net/profile/Sarab_Almuhaideb)
-  
-Awards
-======
+
+## Publications
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>  
+
+## Awards & Honors
 * Student Google Travel Grant to attend Grace Hopper Celebration 2019, Orlando
 * Google Women Techmakers Scholar, 2018
   * Considered as the first undergraduate female to be awarded from a Saudi university
+* Top 90th-percentile in ACM Programming 14-hour Jam Contest, 2019
 * Dean's Honor List, 2016-2019
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Valedictorian and First place of the prestigious Hussam ElDeen AlHariry Award, 2014
  
   
-Teaching
-======
+## Teaching
 * [Intedesciplinary Methods in Research Computing](https://illinois-cse.github.io/eng498/), Teaching Assistant
-  <I>University of Illinois Urbana-Champaig</I>
+  *University of Illinois Urbana-Champaig
 * Java Programming, Tutor
-  <I>Prince Sultan University</I>
+  *Prince Sultan University
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## Extracurricular Activities
+* Technical Mentor, Saudi Data Community [July 2019]
+  *Mentored and trained participants on using Python in a Data Science bootcamp 			  
+Teacher, Community Rehabilitation Program					             	     Sep 2017 – 2019
+•	Mentored and taught disadvantaged children who are not able to join schools
+Organizer, Cybercrimes Awareness Campaign, Prince Sultan University				  Dec 2017
+•	Won the first place as the best awareness booth among other 12 participated booths on campus
+Co-founder & President, Toastmasters Club at PSU	
+
