@@ -1,7 +1,7 @@
 ---
 title: "Clustering Arabic Tweets for Saudi National Vision 2030"
 collection: publications
-permalink: /publication/2019-04-tweets-clustering.md
+permalink: /publication/2019-04-tweets-clustering
 date: 2019-04-01
 venue: 'International Journal of Advanced Trends in Computer Science and Engineering'
 paperurl: 'http://www.warse.org/IJATCSE/static/pdf/file/ijatcse37814sl2019.pdf'
