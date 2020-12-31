@@ -16,25 +16,25 @@ redirect_from:
 ## Work experience
 * <b> Research Intern</b> [Summer 2020]
   
-  *Washington University in St. Louis, USA
+  <I>Washington University in St. Louis, USA</I>
   * Worked on named-entity recognition model on top of BERT language model for multi-task learning 
   * Supervisor: Dr. [Po-Yin Yen](https://informatics.wustl.edu/research-lab-po-yin-yen/)
 
 * <b>Data Scientist, Coop</b> [Jan - Sep 2019]
   
-  *[Mozn Systems](https://mozn.sa/), Saudi Arabia
+  <I>[Mozn Systems](https://mozn.sa/), Riyahd Saudi Arabia </I>
   * Worked on wide-scale problems that incoporate nationwide data utilizing techniques including NLP modelling, data assessment, wrangling and wrangling, geospatial analytics
   * Web services and backend development for interactive data dashboards 
 
 * <b> Research Intern </b> [Summer 2017]
   
-  *University of Arkansas at Little Rock
+  <I> University of Arkansas at Little Rock, USA </I>
   * Created a model to predict sentimental values based on a product reviews and images
   * Supervisor: Prof. [Milanova Mariofanna](https://ualr.edu/computerscience/faculty-and-staff/mariofanna-milanova/)
  
 * <b> Undergraduate Research Assistant </b> [2016-2017]
   
-  *Prince Sutlan University, CCIS Department 
+  <I>Prince Sutlan University, CCIS Department, Saudi Arabia</I> 
   * Assessed, wrangled, preprocessed large health records datasets for predictive analysis
   * Supervisor: Prof. [Sarab Almuhaideb](https://www.researchgate.net/profile/Sarab_Almuhaideb)
 
@@ -55,17 +55,18 @@ redirect_from:
 ## Teaching
 * [Intedesciplinary Methods in Research Computing](https://illinois-cse.github.io/eng498/) Course development
   
-  *University of Illinois Urbana-Champaig
+  <I> University of Illinois Urbana-Champaign</I>
 * Java Programming, Tutor
-  
-  *Prince Sultan University
+  <I> Prince Sultan University</I>
   
 ## Extracurricular Activities
 * Technical Mentor, Saudi Data Community [July 2019]
-  *Mentored and trained participants on using Python in a Data Science bootcamp 			  
-Teacher, Community Rehabilitation Program					             	     Sep 2017 – 2019
-•	Mentored and taught disadvantaged children who are not able to join schools
-Organizer, Cybercrimes Awareness Campaign, Prince Sultan University				  Dec 2017
-•	Won the first place as the best awareness booth among other 12 participated booths on campus
-Co-founder & President, Toastmasters Club at PSU	
+  * Mentored and trained participants on using Python in a Data Science bootcamp
+* Co-founder, AlgoCode Initiatve [2018]
+  * Campus-wide sessions to train and support female developers and future engineers
+* Teacher, Community Rehabilitation Program	[2017 – 2019]
+  * Developed curricula, mentored and taught underserved children who were not able to join schools
+* Organizer, Cybercrimes Awareness Campaign [2017]
+  * Won the first place as the best awareness booth among other 12 participated booths on campus
+* Co-founder & President, Toastmasters Club at PSU	[2016]
 
