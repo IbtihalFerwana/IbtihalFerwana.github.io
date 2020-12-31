@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Science, Prince Sultan University, 2019
+* M.S. in Computer Science, University of Illinois at Urbana-Champaign, 2022 (expected)
 
 Work experience
 ======
@@ -27,32 +26,26 @@ Work experience
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
-Skills
+Awards
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Student Google Travel Grant to attend Grace Hopper Celebration 2019, Orlando
+* Google Women Techmakers Scholar, 2018
+  * Considered as the first undergraduate female to be awarded from a Saudi university
+* Dean's Honor List, 2016-2019
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+ 
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* [Intedesciplinary Methods in Research Computing](https://illinois-cse.github.io/eng498/), Teaching Assistant
+<I>University of Illinois Urbana-Champaig</I>
+* Java Programming, Tutor
+<I>Prince Sultan University</I>
   
 Service and leadership
 ======
