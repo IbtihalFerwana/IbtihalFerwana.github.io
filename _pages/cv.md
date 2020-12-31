@@ -11,20 +11,20 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computer Science, Prince Sultan University, 2019
 * M.S. in Computer Science, University of Illinois at Urbana-Champaign, 2022 (expected)
+* B.S. in Computer Science, Prince Sultan University, 2019
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* <b>Research Intern</b>, Summer 2020
+  <I> Washington University in St. Louis, USA </I>
+  * Worked on named-entity recognition project utililizing BERT language model for multi-task learning 
+  * Supervisor: Dr. [Po-Yin Yen](https://informatics.wustl.edu/research-lab-po-yin-yen/)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* <b>Data Scientist, Coop</b> Jan - Sep 2019  
+  <I>[Mozn Systems](https://mozn.sa/), Saudi Arabia</I>
+  * NLP modelling, data analysis and wrangling, geospatial analytics
+
   
 Awards
 ======
@@ -43,9 +43,9 @@ Publications
 Teaching
 ======
 * [Intedesciplinary Methods in Research Computing](https://illinois-cse.github.io/eng498/), Teaching Assistant
-<I>University of Illinois Urbana-Champaig</I>
+  <I>University of Illinois Urbana-Champaig</I>
 * Java Programming, Tutor
-<I>Prince Sultan University</I>
+  <I>Prince Sultan University</I>
   
 Service and leadership
 ======
