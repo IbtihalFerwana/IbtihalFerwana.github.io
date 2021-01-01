@@ -16,7 +16,7 @@ redirect_from:
 ## Work experience
 * <b> Research Intern</b> [Summer 2020]
   * <I>Washington University in St. Louis, USA</I>
-  * Worked on named-entity recognition model on top of BERT language model for multi-task learning 
+  * Built a named-entity recognition model on top of BERT language model which accomodates multitask learning  
   * Supervisor: Dr. [Po-Yin Yen](https://informatics.wustl.edu/research-lab-po-yin-yen/)
 
 * <b>Data Scientist, Coop</b> [Jan - Sep 2019]
