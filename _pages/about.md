@@ -22,4 +22,4 @@ Before joining Illinois, I received my bachelors degree from [Prince Sultan Univ
 ### Some non-technical interests:
 * Children education, specifically in underserved areas, or refugee camps
 * Children learning development, cognitive and language perspectives
-* Solving brain teasers and challenges
+* Authentication of historical narrations
