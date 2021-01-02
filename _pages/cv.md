@@ -35,7 +35,7 @@ redirect_from:
   * Supervisor: Prof. [Sarab Almuhaideb](https://www.researchgate.net/profile/Sarab_Almuhaideb)
 
 ## Publications
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>  
 
