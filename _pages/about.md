@@ -16,10 +16,10 @@ Before joining Illinois, I received my bachelors degree from [Prince Sultan Univ
 ### At the momenet, I'm interested in:
 * Applying network analysis techniques to observe and extract phenomena in data
 * NLP interpretability, methods and applications
-* Social interactions in health and policies 
+* Social interactions in health and policy 
 
 
-### Some non-CS interests:
+### Some non-technical interests:
 * Children education, specifically in underserved areas, or refugee camps
 * Children learning development, cognitive and language perspectives
 * Solving brain teasers and challenges
