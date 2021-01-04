@@ -10,8 +10,8 @@ redirect_from:
 {% include base_path %}
 
 ## Education
-* M.S. in Computer Science, University of Illinois at Urbana-Champaign, 2022 (expected)
-* B.S. in Computer Science, Prince Sultan University, 2019
+* M.S. in Computer Science, University of Illinois at Urbana-Champaign, May 2022 (expected)
+* B.S. in Computer Science, Prince Sultan University, Aug 2019
 
 ## Work experience
 * <b> Research Intern</b> [Summer 2020]
