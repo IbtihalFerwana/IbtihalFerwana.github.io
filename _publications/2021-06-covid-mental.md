@@ -1,7 +1,7 @@
 ---
 title: "The Impact of COVID-19 Lockdowns on Mental Health Patient Populations: Evidence from Medical Claims Data"
 collection: publications
-permalink: /publication/2021-06-covid-mental
+permalink: /publication/2021-06-covid-mental.md
 type: "preprint"
 date: 2021-06-01
 venue: 'MedRxiv'
