@@ -61,5 +61,8 @@ redirect_from:
   * Developed curricula, mentored and taught underserved children who were not able to join schools
 * Organizer, Cybercrimes Awareness Campaign [2017]
   * Won the first place as the best awareness booth among other 12 participated booths on campus
-* Co-founder & President, Toastmasters Club at PSU	[2016]
+* Co-founder & President, Toastmasters Club at PSU	[2016-2017]
+  * Lead a team of six, and facilitated Toastmasters meetings, with achieving annual Toastmasters educational goals
+* Co-founder & President, Student Research Club at PSU [2015-2016]
+  * Organized reseasrch sessions to be attended by the student body, hosted faculty talks, and organized the _Undergraduate Research Forum_   
 
