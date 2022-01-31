@@ -10,13 +10,13 @@ redirect_from:
 ---
 
 
-<b>Salam!</b> I'm Ibtihal, a first year Masters student in [Computer Science](https://cs.illinois.edu/) at the University of Illinios at Urbana-Champaign. Currenlty I'm supervised by [Prof. Lav R. Varsheny](http://www.varshney.csl.illinois.edu/) to work on interesting problems in science of science, network analysis and much more as part of the Information and Intelligence Group.
+<b>Salam!</b> I'm Ibtihal, a second-year Masters student in [Computer Science](https://cs.illinois.edu/) at the University of Illinios at Urbana-Champaign. Currenlty I'm supervised by [Prof. Lav R. Varsheny](http://www.varshney.csl.illinois.edu/) to work on interesting problems in science of science, network analysis and much more as part of the Information and Intelligence Group.
 Before joining Illinois, I received my bachelors degree from [Prince Sultan University](https://psu.edu.sa/en), Saudi Arabia in 2019. 
 
 ### At the momenet, I'm interested in:
-* Applying network analysis techniques to observe and extract phenomena in data
-* NLP interpretability, methods and applications
-* Social interactions in health and policy 
+* Causal inference in health and policy 
+* Science of science for scientifc evolution
+* Some NLP methods and applications
 
 
 ### Some non-technical interests:
