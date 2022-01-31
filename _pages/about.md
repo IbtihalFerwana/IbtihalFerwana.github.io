@@ -17,7 +17,7 @@ Before joining Illinois, I received my bachelors degree from [Prince Sultan Univ
 * Causal inference in health and policy 
 * Science of science for scientifc evolution
 * Some NLP methods and applications
-* Matrix estimation
+* Data completion and matrix estimation
 
 
 ### Some non-technical interests:
