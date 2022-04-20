@@ -17,6 +17,7 @@ Before joining Illinois, I received my bachelors degree from [Prince Sultan Univ
 * Causal inference in health and policy 
 * Fairness and out-of-distribution generalization in ML applications
 * Data completion and matrix estimation
+* Topology data analysis
 
 
 ### Some non-technical interests:
