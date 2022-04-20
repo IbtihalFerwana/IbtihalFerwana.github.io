@@ -40,6 +40,8 @@ redirect_from:
   {% endfor %}</ul>  
 
 ## Awards & Honors
+* National Science Foundation (NSF-GRFP) Honorable Mention, 2022
+* SURGE Graduate Fellowship, 2022
 * Student Google Travel Grant to attend Grace Hopper Conference 2019, Orlando
 * [Google Women Techmakers](https://buildyourfuture.withgoogle.com/scholarships/generation-google-scholarship-emea/) EMEA Scholar, 2018
   * Considered as the first undergraduate female to be awarded from a Saudi university
