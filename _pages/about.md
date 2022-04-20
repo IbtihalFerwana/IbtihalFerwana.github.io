@@ -15,8 +15,7 @@ Before joining Illinois, I received my bachelors degree from [Prince Sultan Univ
 
 ### At the momenet, I'm interested in:
 * Causal inference in health and policy 
-* Science of science for scientifc evolution
-* Some NLP methods and applications
+* Fairness and out-of-distribution generalization in ML applications
 * Data completion and matrix estimation
 
 
