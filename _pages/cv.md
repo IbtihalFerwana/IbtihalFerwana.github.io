@@ -10,8 +10,9 @@ redirect_from:
 {% include base_path %}
 
 ## Education
-* M.S. in Computer Science, University of Illinois at Urbana-Champaign, May 2022 (expected)
-* B.S. in Computer Science, Prince Sultan University, Aug 2019
+* Ph.D (current) Computer Science, University of Illinois at Urbana-Champaign
+* M.S. (2022) Computer Science, University of Illinois at Urbana-Champaign [[Thesis](https://www.ideals.illinois.edu/items/124472)]
+* B.S. (2019) Computer Science, Prince Sultan University
 
 ## Work experience
 * <b> Research Intern</b> [Summer 2020]
