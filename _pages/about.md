@@ -10,7 +10,7 @@ redirect_from:
 ---
 
 
-<b>Salam!</b> I'm Ibtihal, a graduate student in [Computer Science](https://cs.illinois.edu/) at the University of Illinios at Urbana-Champaign. Currenlty I'm supervised by [Prof. Lav R. Varsheny](http://www.varshney.csl.illinois.edu/) to work on interesting problems in matrix estimation for causal inference and partial invariance in machine learning applications and much more as part of the Information and Intelligence Group.
+<b>Salam!</b> I'm Ibtihal, a graduate student in [Computer Science](https://cs.illinois.edu/) at the University of Illinios at Urbana-Champaign. Currently I'm supervised by [Prof. Lav R. Varsheny](http://www.varshney.csl.illinois.edu/) to work on interesting problems in matrix estimation for causal inference and partial invariance in machine learning applications and much more as part of the Information and Intelligence Group.
 Before joining Illinois, I received my bachelors degree from [Prince Sultan University](https://psu.edu.sa/en), Saudi Arabia in 2019. 
 
 ### At the momenet, I'm interested in:
